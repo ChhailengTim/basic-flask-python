@@ -1,0 +1,12 @@
+body{
+    display: contents;
+    margin: auto;
+    font-family: sans-serif;
+}
+table, th, td {
+    border:1px solid black;
+  }
+.content {
+    max-width: 500px;
+    margin: auto;
+  }
