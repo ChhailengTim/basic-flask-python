@@ -3,10 +3,10 @@ from app2 import password
 import ssl
 import smtplib
 
-email_sender = 'dmoza2018@gmail.com'
+email_sender = 'test@gmail.com'
 email_password = password
 
-email_receivers = ['chhailengtim2018@gmail.com', 'vexeteh811@cdeter.com']
+email_receivers = ['test2018@gmail.com', 'vexeteh811@cdeter.com']
 
 subject = 'Email Sender Version2'
 body = """
