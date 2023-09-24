@@ -1,1 +1,1 @@
-telegram_bot_token_session = '6675534849:AAGNe6jEGIIgqRppzJyzDt0lq1OsuAi46d8'
+telegram_bot_token_session = 'your token'
