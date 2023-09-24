@@ -1,1 +1,1 @@
-password = 'omxz sjpr xzxb vouo'
+password = 'your password'
