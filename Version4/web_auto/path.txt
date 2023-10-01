@@ -1,0 +1,3 @@
+/Applications/Brave\ Browser.app/Contents/MacOS/Brave\ Browser
+/Users/newmac/chromedriver_mac_arm64/chromedriver
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome 
