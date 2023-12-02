@@ -8,8 +8,8 @@ driver = webdriver.Chrome(ChromeDriverManager().install())
 # Navigate to Facebook
 driver.get("https://www.facebook.com")
 
-myEmail = 'xxxx'
-myPass = 'xxxx'
+myEmail = '100068061740556'
+myPass = '822293$$$$'
 
 # Find the email input field by its ID and enter your login credentials
 email_field = driver.find_element("id", "email")

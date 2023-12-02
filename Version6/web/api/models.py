@@ -1,5 +1,6 @@
 from tastypie.resources import ModelResource
 from movies.models import Movie
+from django.db import models
 
 class MovieResource(ModelResource):
     class Meta:
